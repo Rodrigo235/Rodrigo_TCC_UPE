@@ -3,8 +3,8 @@
 ######################
 # segunda	= sg
 # terça		= tr
-# quarta		= qa
-# quinta		= qi
+# quarta	= qa
+# quinta	= qi
 # sexta		= sx
 ######################
 
