@@ -130,8 +130,76 @@ disponivel(sonia, tr2).
 disponivel(sonia, tr3).
 # Fim da disponibilidade de Sonia
 
-#Vitoria - Sexta
+# Vitoria - Sexta
 disponivel(vitoria, sx1).
 disponivel(vitoria, sx2).
 disponivel(vitoria, sx3).
 # Fim da disponibilidade de Vitoria
+
+# professores que não são de Computação
+
+# Maurício - Quinta
+disponivel(mauricio, qi1).
+disponivel(mauricio, qi2).
+disponivel(mauricio, qi3).
+# Fim da disponibilidade de Mauricio
+
+# Lidiane - Quarta
+disponivel(lidiane, qa1).
+disponivel(lidiane, qa2).
+disponivel(lidiane, qa3).
+# Fim da disponibilidade de Lidiane
+
+# Anselmo - Segunda
+disponivel(anselmo, sg1).
+disponivel(anselmo, sg2).
+disponivel(anselmo, sg3).
+# Fim da disponibilidade de Anselmo
+
+# Tarcia - Terça
+disponivel(tarcia, tr1).
+disponivel(tarcia, tr2).
+disponivel(tarcia, tr3).
+# Fim da disponibilidade de Tarcia
+
+# Marcela - Quinta
+disponivel(marcela, qi1).
+disponivel(marcela, qi2).
+disponivel(marcela, qi3).
+# Fim da disponibilidade de Marcela
+
+###################################
+#   Disciplinas dos Professores   #
+###################################
+
+leciona(emanoel, programacao1).
+leciona(fausto, computação_etica_e_sociedade).
+leciona(cleiton, paradigmas).
+leciona(fausto, automatos).
+leciona(emanoel, algoritmos).
+leciona(sonia, pratica5).
+leciona(cleiton, seguranca_de_sistema).
+leiona(sonia, estagio1).
+leciona(cleiton, estagio1).
+leciona(anselmo, estagio1).
+leciona(cleyton, banco_de_dados).
+leciona(tarcia, curriculo).
+leciona(fausto, aprendizagem_de_maquina).
+leciona(cleyton, matematica_elementar).
+leciona(lidiane, fundamentos_antropologicos_da_educacao).
+leciona(a_definir, fundamentos_filosoficos_da_educacao).
+leciona(ariane, engenharia_de_software_educativo).
+leciona(adauto, tcc1).
+leciona(marcela, lingua_portuguesa).
+leciona(mauricio, calculo2).
+leciona(higor, estagio3).
+leciona(cristina, estagio3).
+leciona(andson, topicos_avancados).
+leciona(ariane, introducao_computacao).
+leciona(jackson, programacao3).
+leciona(vitoria, avaliacao_da_aprendizagem).
+leciona(higor, empreendedorismo).
+leciona(vitoria, pratica7).
+leciona(anselmo, matematica_discreta).
+leciona(andson, redes_de_computadores).
+leciona(higor, tcc2).
