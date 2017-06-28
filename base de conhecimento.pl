@@ -30,8 +30,8 @@ disponivel(andson, sx1).
 disponivel(andson, sx2).
 disponivel(andson, sx3).
 
-disponivel(ariane,qi1).
-disponivel(ariane,qi2).
+disponivel(ariane, qi1).
+disponivel(ariane, qi2).
 disponivel(ariane, qi3).
 
 disponivel(ariane, sx1).
